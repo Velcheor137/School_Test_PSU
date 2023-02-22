@@ -1,0 +1,15 @@
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\bin\Debug\Тест v 0.2.exe.config
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\bin\Debug\Тест v 0.2.exe
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\bin\Debug\Тест v 0.2.pdb
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест v 0.2.csprojResolveAssemblyReference.cache
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест_v_0._2.Form1.resources
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест_v_0._2.Properties.Resources.resources
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест v 0.2.csproj.GenerateResource.Cache
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест v 0.2.exe
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест v 0.2.pdb
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест_v_0._2.predTEST.resources
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест_v_0._2.admin.resources
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест_v_0._2.Jurnal.resources
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест_v_0._2.Тестирование.resources
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест_v_0._2.admJURNAL.resources
+C:\Users\12\Documents\Visual Studio 2015\Projects\Тест v 0.2\Тест v 0.2\obj\Debug\Тест_v_0._2.Zapolnenie.resources
